@@ -1,0 +1,1 @@
+Each folder contains the data and the codes for both classical and quantum ML models.
